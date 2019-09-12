@@ -1,0 +1,56 @@
+body {
+    line-height:1;
+    font-family: "Lucida Grade", sans-serif;
+    background-color: black;
+    color: white;
+}
+h1 {
+  text-align: center;
+  font-size:64px;
+}
+
+h2 {
+  font-size: 32px;
+  text-shadow: 4px 4px 2px black;
+}
+p {
+  padding-top: 15px;
+  font-size: 16px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 550px;
+}
+div {
+  height:100px;
+  padding:30px;
+}
+#red {
+  background-color: red;
+  text-align: right;
+}
+#blue {
+  background-color: blue;
+  text-align: left;
+}
+#yellow {
+  background-color: yellow;
+  text-align: right;
+}
+
+#yellow h2 {
+  color:black;
+  text-shadow:4px 4px 2px grey;
+}
+#yellow p{
+  color:black;
+}
+#green {
+  background-color: green;
+  text-align: left;
+}
+footer{
+  padding-bottom: center;
+  padding:15px;
+}
